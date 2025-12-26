@@ -21,7 +21,7 @@ This project focuses on **JavaScript DOM manipulation and event handling** to ma
   
 
 ## 🌐 Live Demo
-🔗 
+🔗 https://lishaanthig.github.io/-Industrial-Visit-List-/
 
 ## 🔹 Project Purpose
 Created to practice **core JavaScript concepts** and understand **dynamic list handling** using the DOM.
